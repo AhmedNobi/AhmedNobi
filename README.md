@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Ahmed Nobi<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning MERN stack<br>- ⚡ In my free time I play video games</p>
+<p align="left">I'm Ahmed Nobi<br><br>- 🔭 I’m working as a Software Engineer<br>- ⚡ In my free time I play video games</p>
 
 ###
 
